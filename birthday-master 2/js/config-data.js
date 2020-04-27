@@ -1,0 +1,75 @@
+var configData = {
+  // 祝福标题，内容最好 7 条。默认没有
+  title: [
+    "v",
+    "r",
+    "u",
+    "s",
+    "h",
+    "t",
+    "i"
+  ],
+
+  // 生日祝福的内容，内容条数任意。每句话尽量不要超过 15 个字，不然展示效果可能不太好。
+  contents: [
+   "Today is...",
+    "as beautiful as other days",
+    "but you realize",
+    "another year has gone",
+    "in a blink of the eyes",
+    "however",
+    "Do you know..?",
+    "today is just special",
+    "so special to you",
+    "that's why",
+    "Let's make it...",
+    "the best celebration ever",
+    "and let me share...",
+    "a piece of happiness to you",
+    "We made all this...",
+    "as a birthday present to you",
+    "thanks for being there",
+    "thanks for the friendship we made",
+    "thanks for everything",
+    "We wish you all the best",
+    "May all your wishes come true",
+    "Remember",
+    "your ambitions",
+    "you live as YOU and Be Yourself Forever...",
+    "flying in your World Zone",
+    "Now things are different...",
+    "real story of your life",
+    "is just about to begin",
+    "indeed..",
+    "but...",
+    "don't worry",
+    "because...",
+    "We have your back",
+    "and with Corona Virus",
+    "this year will be best",
+    "and I hope",
+    "you'll find...",
+    "happiness along the way",
+    "keep your spirit up",
+    "enjoy every single moment...",
+    "that you experience today",
+    "fill it with your most beautiful smile",
+    "and make it the best memory..",
+    "Lastly...",
+    "I'd like to wish you one more time",
+    "a very happy birthday Vru~"
+  ],
+
+  // 按钮描述，默认英文。可以修改成自己喜欢的。
+  btn_text: {
+    turn_on: "Turn On Lights",
+    play: "Play Music",
+    bannar_coming: "Let's Decorate",
+    balloons_flying: "Fly With Balloons",
+    cake_fadein: "Most Delicious Cake Ever",
+    light_candle: "Light Candle",
+    wish_message: "Happy Birthday",
+    story: "A MESSAGE FOR YOU",
+  }
+
+}
